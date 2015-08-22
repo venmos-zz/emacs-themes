@@ -23,7 +23,7 @@
       (base0D "#81a2be")
       (base0E "#b294bb")
       (base0F "#a3685a")
-			(base0G"#AE4543"))
+			(base0G "#AE4543"))
 
   (custom-theme-set-faces
    'base16-tomorrow-light
@@ -35,7 +35,7 @@
    `(default ((t (:background ,base07 :foreground ,base02))))
    `(fringe ((t (:background ,base07))))
    `(gui-element ((t (:background ,base03 :foreground ,base06))))
-   `(highlight ((t (:background ,base01))))
+   `(highlight ((t (:background ,base0G))))
    `(link ((t (:foreground ,base0D))))
    `(link-visited ((t (:foreground ,base0E))))
    `(minibuffer-prompt ((t (:foreground ,base0D))))
