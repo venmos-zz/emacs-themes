@@ -22,7 +22,8 @@
       (base0C "#8abeb7")
       (base0D "#81a2be")
       (base0E "#b294bb")
-      (base0F "#a3685a"))
+      (base0F "#a3685a")
+			(base0G"#AE4543"))
 
   (custom-theme-set-faces
    'base16-tomorrow-light
@@ -43,7 +44,7 @@
    `(mode-line-emphasis ((t (:foreground ,base06 :slant italic))))
    `(mode-line-highlight ((t (:foreground ,base0E :box nil :weight bold))))
    `(mode-line-inactive ((t (:background ,base01 :foreground ,base03 :box nil))))
-   `(region ((t (:background ,base02))))
+   `(region ((t (:background ,base0G))))
    `(secondary-selection ((t (:background ,base03))))
    `(error ((t (:foreground ,base08 :weight bold))))
    `(warning ((t (:foreground ,base09 :weight bold))))
