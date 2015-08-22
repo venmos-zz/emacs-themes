@@ -1,4 +1,12 @@
-按照 Venom 个人喜好修改过的 Base16-Tomorrow 主题.
+Venom 在用的 Emacs 外观设置
+
+- [[file:init-tabbar.el]]
+
+[[file:init-tabbar.png]]
+
+-[[file:theming.el]] code by[[%20%20%20%20https://github.com/ashutoshrishi][ https://github.com/ashutoshrishi]]
+
+[[file:theming.png]]
 
 - Base16-Tomorrow-Dark
 
